@@ -1,0 +1,5 @@
+Name,Number of Calls,Elapsed Inclusive Time %,Elapsed Exclusive Time %,Avg Elapsed Inclusive Time,Avg Elapsed Exclusive Time,
+"ProfilingTest.dll",4,100.00,81.94,76.39,31.30,
+"System.Runtime.Extensions.dll","569,531",17.91,17.91,0.00,0.00,
+"Microsoft.VisualStudio.TestPlatform.TestFramework.dll",1,0.11,0.11,0.16,0.16,
+"System.Runtime.dll",3,0.04,0.04,0.02,0.02,
